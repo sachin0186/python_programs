@@ -1,0 +1,1 @@
+mylist = [num=input("enter five number number") for num in range(0,5)]

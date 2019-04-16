@@ -1,0 +1,5 @@
+a=int(in5put("enter the "))
+b=int(input("enter"))
+result=float(a+b)
+print(result)
+print(type(result)
